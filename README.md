@@ -9,6 +9,8 @@ Majorly includes :-<br>
 2.Pitch Anaysis<br>
 3.Overall Analysis<br>
 
+![image](https://github.com/divyawaghmare15/Shark-tank-Analysis-Dashboard/assets/102920795/33f2ffdb-1d54-4a57-a23e-c6be1e33a2eb)
+
 Here is the given data dictionary for dataset.(What we have to do ...) <br>
 
 Season Number - Season number <br>
